@@ -2,6 +2,9 @@
 
 This project demonstrates a modern login window interface created using Python's `Tkinter` and `CustomTkinter` libraries. It features a clean, responsive design with a customizable appearance, background image, and a semi-transparent login form.
 
+![image](https://github.com/user-attachments/assets/e8acbd40-28dd-42da-a5b2-e45e61e4a43d)
+
+
 ## Features
 
 - **Custom Theming**: Choose between `light`, `dark`, or `system` appearance modes.
